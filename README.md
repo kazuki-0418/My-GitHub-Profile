@@ -22,11 +22,17 @@ I love turning raw ideas into structured, detail-oriented solutions.
 ## 🚀 Featured Projects
 
 ### ♻️ [P2P Marketplace – Monogatari](https://monogatari-final-project-12ykiptgp-kazuki0418s-projects.vercel.app)
+![image](https://github.com/user-attachments/assets/e2284b35-5ba3-48c8-ac88-384ad84145c2)
+**[GitHub Repository](https://github.com/kazuki-0418/Monogatari-Final-Project)**
 
 A secondhand marketplace focused on **sustainability** for short-term residents
 Built with Next.js, Supabase, and Stripe integration.
 
 ### 🎮 [Trivia Quiz Game](https://qui-p4ewk6ezi-kazuki0418s-projects.vercel.app)
+![image](https://github.com/user-attachments/assets/9d3c41f1-0f04-453a-a638-6aebd95c6f56)
+
+
+**[GitHub Repository](https://github.com/kazuki-0418/Qui-zoo)** 
 
 A fast-paced quiz game that sharpens memory and reflexes.
 
