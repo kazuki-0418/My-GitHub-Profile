@@ -4,6 +4,15 @@ Hi, I'm **Kazuki**, a fullstack engineer from **Osaka, Japan** with **4+ years o
 I’m passionate about improving **user experience** by bridging **data insights** with intuitive UI design.
 I love turning raw ideas into structured, detail-oriented solutions.
 
+### Contact Me
+
+[![image](https://github.com/user-attachments/assets/c7f80c51-0de7-4cc4-8f79-d90d6b466d60)](mailto:kazukijo.dev@gmail.com)
+[![image](https://github.com/user-attachments/assets/560c61fd-1074-4555-8b94-8e4653f71b6c)](https://www.linkedin.com/in/kazuki-jo-5461b02b5/)
+
+kazukijo.dev@gmail.com
+
+
+
 ## 🛠️ Tech Stack
 
 ### Frontend
