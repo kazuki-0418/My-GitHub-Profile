@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi, I'm **Kazuki**, a fullstack engineer from **Osaka, Japan**.
+Hi, I'm **Kazuki**, a fullstack engineer from **Osaka, Japan** with **4+ years of hands-on development experience**.
 I’m passionate about improving **user experience** by bridging **data insights** with intuitive UI design.
 I love turning raw ideas into structured, detail-oriented solutions.
 
